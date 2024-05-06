@@ -36,6 +36,7 @@ Follow our deployment guides for [Vercel](https://create.t3.gg/en/deployment/ver
 
 - [x] Make it deploy
 - [x] Scaffold basic ui with mock data
+- [x] tidy up build process (next config--ignoreerrors  and eslind: ignoreduring builds--add turbo to scripts in package json)
 - [] actually set up DB (vercel postgress)
 - [] attacj Db to UI
 - [] add auth (w/clerk)
