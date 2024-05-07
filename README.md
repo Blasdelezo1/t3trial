@@ -39,7 +39,7 @@ Follow our deployment guides for [Vercel](https://create.t3.gg/en/deployment/ver
 - [x] tidy up build process (next config--ignoreerrors  and eslind: ignoreduring builds--add turbo to scripts in package json)
 - [x] actually set up DB (vercel postgress)
 - [x] attacj Db to UI
-- [] add auth (w/clerk)
+- [x] add auth (w/clerk)
 - [] add image upload
 - [] error Management
 
